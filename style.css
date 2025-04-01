@@ -1,0 +1,281 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar1{
+    height: 90px;
+    width: 100%;
+    background-color:#ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2px solid black;
+
+}
+.navlogo{
+    height: 37.7px;
+    width: 130px;
+}
+.navcontent{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+.navcontent p{
+    margin-left: 50px;    
+}
+.searchbar{
+    width:270px;
+    height:34px;
+    border: 1px solid black;
+    background-color:#fffded;
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    border:0;
+    background-color:#fffded;
+    border-radius: 10px;
+
+}
+.searchbar i{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-left: 55px;
+
+}
+.heart{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.heart i{
+    width: 34px;
+    height: 34px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cart{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart i{
+    width: 34px;
+    height: 34px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navbar2 img{
+    width: 100%;
+    height: 600px;
+}
+
+.navbar4 img{
+    width: 100%;
+    height: 400px;
+}
+
+.navbar5 img{
+    width: 100%;
+    height: 130px;
+
+}
+
+.maincontent{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 394px;
+    margin-bottom: 100px;
+    
+
+}
+
+.boxes{
+    width: 350px;
+    height: 393px;
+}
+
+.maincontent1{
+    width: 100%;
+    height: 505px;
+    margin-left: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.Crea{
+    color: goldenrod;
+    text-align: center;
+}
+.up{
+    text-align: center;
+}
+.rating{
+    width: 77.25px;
+    height: 25px;
+    background-color: rgb(52, 193, 52);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 115px;
+}
+
+.price{
+    text-align: center;
+}
+
+.boximage{
+    background-image: url("./images/shoes.webp");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage1{
+    background-image: url("./images/boots2.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage2{
+    background-image: url("./images/-473Wx593H-700965946-multi-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage4{
+    background-image: url("./images/-473Wx593H-700962822-orange-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage5{
+    background-image: url("./images/-473Wx593H-469584164-white-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage6{
+    background-image: url("./images/-473Wx593H-469114901-black-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage7{
+    background-image: url("./images/-473Wx593H-467065508-black-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+.boximage8{
+    background-image: url("./images/-473Wx593H-451009011-black-MODEL.avif");
+    width: 303px;
+    height: 378px;
+    background-size: cover;
+    margin-right: 25px;
+}
+
+
+.footerlogo{
+    width:1200px;
+    height: 95px;
+    margin-top: 450px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: 200px;
+}
+
+.footer1{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 65px;
+}
+
+.footerbar1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.footerbar1 i{
+    height: 30px;
+    width: 50px;
+}
+
+.footerend{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer2{
+    background-color: #2c4152;
+    justify-content: space-evenly;
+    color: white;
+    padding: 40px;
+    padding-bottom: 50px;
+}
+.PopularSearch{
+    padding-top: 20px; 
+}
+.PopularBrands{
+    padding-top: 40px;
+}
+
+.PopularCategories{
+    padding-top: 40px;
+
+}
+
+.Ajio{
+    padding-top: 40px;
+
+}
+.colorcc{
+    color: #CCCC;
+}
+
+.margintop{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+li{
+    margin-top: 10px;
+}
+
+
+
